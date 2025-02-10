@@ -1,4 +1,4 @@
-package statePattern;
+package StateDesignPattern;
 
 public class AccountTest {
 
